@@ -15,15 +15,15 @@
 
 - name: Windows x64
   descr: "Provided as an executable. Simply unzip and double-click the .exe to run."
-  demo: https://github.com/NotAName320/Henson/releases/latest/download/henson150-win-x64.zip
+  demo: https://github.com/NotAName320/Henson/releases/latest/download/henson-win-x64.zip
 
 - name: Linux x64
   descr: "Provided in binary form. Simply unzip, chmod, and run."
-  demo: https://github.com/NotAName320/Henson/releases/latest/download/henson150-linux-x64.zip
+  demo: https://github.com/NotAName320/Henson/releases/latest/download/henson-linux-x64.zip
 
 - name: MacOS x64 and ARM
   descr: "The process to get Henson working on MacOS is quite unusual compared to other platforms. Please check out the <a class=\"highlight-link\" href=\"https://github.com/NotAName320/Henson?tab=readme-ov-file#installation-macos\" target=\"_blank\" rel=\"noreferrer\"> installation instructions </a> for more info."
-  demo: https://github.com/NotAName320/Henson/releases/latest/download/henson150-osx-x64.zip
+  demo: https://github.com/NotAName320/Henson/releases/latest/download/henson-osx-x64.zip
 
 - name: Source Code
   descr: "Download a zipped copy of the latest source code below!"
